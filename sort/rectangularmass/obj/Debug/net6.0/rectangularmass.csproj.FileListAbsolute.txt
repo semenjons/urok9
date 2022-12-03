@@ -1,0 +1,15 @@
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\bin\Debug\net6.0\rectangularmass.exe
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\bin\Debug\net6.0\rectangularmass.deps.json
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\bin\Debug\net6.0\rectangularmass.runtimeconfig.json
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\bin\Debug\net6.0\rectangularmass.dll
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\bin\Debug\net6.0\rectangularmass.pdb
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\rectangularmass.csproj.AssemblyReference.cache
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\rectangularmass.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\rectangularmass.AssemblyInfoInputs.cache
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\rectangularmass.AssemblyInfo.cs
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\rectangularmass.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\rectangularmass.dll
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\refint\rectangularmass.dll
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\rectangularmass.pdb
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\rectangularmass.genruntimeconfig.cache
+C:\УЧЕБА\ДЗ\urok8\sort\rectangularmass\obj\Debug\net6.0\ref\rectangularmass.dll
