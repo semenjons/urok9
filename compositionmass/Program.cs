@@ -63,7 +63,7 @@ for (int i = 0; i < Matrix.GetLength(0); i++)
 {
     for (int j = 0; j < Matrix.GetLength(1); j++)
  {
-        System.Console.Write($"{Matrix[i,j]}\t");
+      System.Console.Write($"{Matrix[i,j]}\t");
     }
     System.Console.WriteLine();
 }
