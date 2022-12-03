@@ -1,0 +1,15 @@
+C:\УЧЕБА\ДЗ\urok8\compositionmass\bin\Debug\net6.0\compositionmass.exe
+C:\УЧЕБА\ДЗ\urok8\compositionmass\bin\Debug\net6.0\compositionmass.deps.json
+C:\УЧЕБА\ДЗ\urok8\compositionmass\bin\Debug\net6.0\compositionmass.runtimeconfig.json
+C:\УЧЕБА\ДЗ\urok8\compositionmass\bin\Debug\net6.0\compositionmass.dll
+C:\УЧЕБА\ДЗ\urok8\compositionmass\bin\Debug\net6.0\compositionmass.pdb
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\compositionmass.csproj.AssemblyReference.cache
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\compositionmass.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\compositionmass.AssemblyInfoInputs.cache
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\compositionmass.AssemblyInfo.cs
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\compositionmass.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\compositionmass.dll
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\refint\compositionmass.dll
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\compositionmass.pdb
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\compositionmass.genruntimeconfig.cache
+C:\УЧЕБА\ДЗ\urok8\compositionmass\obj\Debug\net6.0\ref\compositionmass.dll
